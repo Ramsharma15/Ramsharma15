@@ -1,0 +1,27 @@
+ [
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Venus", "Jupiter"],
+        "correctAnswer": "Mars"
+    },
+    {
+        "question": "Who founded Amazon?",
+        "options": ["Bill gates", "Elon Musk", "Jeff Bezos", "Led Zeppelin"],
+        "correctAnswer": "Jeff Bezos"
+    },
+    {
+        "question": "What is the currency of Denmark?",
+        "options": ["Ruppes", "Dhaka", "Euro", "Danish Krone"],
+        "correctAnswer": "Danish Krone"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "H2", "CO2", "O2"],
+        "correctAnswer": "H2O"
+    }
+]
